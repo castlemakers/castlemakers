@@ -1,0 +1,1 @@
+Kiosk mode based on https://www.danpurdy.co.uk/web-development/raspberry-pi-kiosk-screen-tutorial/
